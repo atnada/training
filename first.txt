@@ -2,5 +2,6 @@ Git ‚Ì—ûK
 test
 - git add
 - git commit
-- git rm
+- git rm : remove
 - git status
+test
