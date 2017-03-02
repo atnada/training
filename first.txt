@@ -1,2 +1,4 @@
 Git ‚Ì—ûK
 test
+- git add
+- git commit
